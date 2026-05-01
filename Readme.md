@@ -23,17 +23,17 @@ This is a responsive E-commerce web application that allows users to browse prod
 
 ##  Screenshots
 
-### Home Page
+#Home Page
     https://github.com/pooji192004/Ecommerce-page/blob/main/Shop%20Home.png
 
-### Product Listing
+#Product Listing
     https://github.com/pooji192004/Ecommerce-page/blob/main/Add%20to%20cart.png     
     https://github.com/pooji192004/Ecommerce-page/blob/main/Remove%20the%20item.png
-### Cart Page
+#Cart Page
     https://github.com/pooji192004/Ecommerce-page/blob/main/Add%20to%20cart.png
 
 ---
 
 ## 🔗 Live Demo
-(Add your deployed link here)
+    -https://ecommerce-5.netlify.app/
 
