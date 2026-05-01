@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ShopEasy</title>
+
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar">
+    <h2>🛍️ ShopEasy</h2>
+
+    <input type="text" id="searchInput" placeholder="Search products...">
+
+    <button onclick="toggleCart()">🛒 <span id="cartCount">0</span></button>
+</nav>
+
+<!-- PRODUCTS -->
+<section class="products-section">
+    <div id="productsGrid" class="products-grid"></div>
+</section>
+
+<!-- CART -->
+<div id="cart" class="cart">
+    <h3>Your Cart</h3>
+    <div id="cartItems"></div>
+    <h4>Total: ₹<span id="total">0</span></h4>
+    <button onclick="toggleCart()">Close</button>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
