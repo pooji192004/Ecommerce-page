@@ -11,7 +11,7 @@ This is a responsive E-commerce web application that allows users to browse prod
 -  Add to cart and remove from cart
 -  Cart data stored using localStorage
 -  Responsive design for mobile and desktop
-
+ 
 ---
 
 ##  Tech Stack
